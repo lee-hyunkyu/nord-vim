@@ -1,0 +1,3 @@
+[submodule "nord-vim"]
+	path = nord-vim
+	url = https://github.com/lee-hyunkyu/nord-vim.git
